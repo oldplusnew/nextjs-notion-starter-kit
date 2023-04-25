@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '3edcfd2188c34649a28f9c915ada5455',
+  rootNotionPageId: '0d07bace03b14fee904b7816485655b7',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name:  '她来听我的演唱会',
-  domain: 'https://www.notion.so/3edcfd2188c34649a28f9c915ada5455',
+  domain: 'https://www.notion.so/0d07bace03b14fee904b7816485655b7?pvs=2',
   author: 'Jiaxin Chen',
 
   // open graph metadata (optional)
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'oldplusnew',
-  github: 'oldplusnew',
-  linkedin: 'oldplusnew',
+  weibo: 'oldplusnew',
+  douban: 'RamblER',
+  facebook: 'oldplusnew',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
